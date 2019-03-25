@@ -32,4 +32,7 @@ def result():
         return render_template("yes.html")
     else:
         return render_template("no.html")
-app.run(debug=True)
+
+if __name__ == '__main__':
+    app.run()
+# app.run(debug=True)
