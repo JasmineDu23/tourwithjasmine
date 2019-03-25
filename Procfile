@@ -1,1 +1,1 @@
-web: gunicorn tourwithjasmine --log-file -
+web: gunicorn tourwithjasmine:app --log-file -
