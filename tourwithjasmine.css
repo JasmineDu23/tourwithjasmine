@@ -1,0 +1,23 @@
+body {
+  padding-top: 10rem;
+
+}
+div1{margin:30px;border:0;padding:0;}
+div2{margin:0px;border:0;padding:0;}
+.div{
+  width: 200px;
+  height: 200px;
+  float:left;
+  boarder:0;
+  margin:0;
+}
+.div.div1{
+  width: 150px;
+  height: 200px;
+  float:left;
+}
+.div.div2{
+  width: 150px;
+  height: 200px;
+  float:left;
+}
